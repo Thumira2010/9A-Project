@@ -1,0 +1,6 @@
+{
+  "name": "O/L Revision Notes",
+  "description": "Sri Lanka Ordinary Level (O/L) revision notes platform for Grade 10 and 11 students to read, share, and review lesson notes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
