@@ -5,8 +5,8 @@ const STORAGE_KEYS = {
 };
 
 const DEFAULT_CONFIG: AppConfig = {
-  exam_date: '2027-05-15T08:30:00.000Z',
-  exam_title: 'G.C.E. O/L Examination 2026/2027',
+  exam_date: '2026-12-08T00:00:00.000Z',
+  exam_title: 'G.C.E. O/L Examination 2026',
 };
 
 const DEFAULT_SUBJECTS: Subject[] = [
