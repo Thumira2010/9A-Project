@@ -47,7 +47,7 @@ export const Header: React.FC<HeaderProps> = ({
             </div>
             <div>
               <span className="text-base sm:text-lg font-black tracking-tight text-slate-900 group-hover:text-blue-600 transition-colors block leading-none">
-                G.C.E. O/L Notes
+                ShortNotesLM
               </span>
               <span className="text-[10px] sm:text-[11px] font-semibold text-slate-500 block mt-0.5">
                 Sri Lanka Exam Revision
