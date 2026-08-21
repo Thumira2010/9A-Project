@@ -171,7 +171,7 @@ export default function App() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col md:flex-row items-center justify-between gap-4 text-center md:text-left">
           <div>
             <p className="font-extrabold text-slate-900 text-sm">
-              Sri Lanka G.C.E. Ordinary Level (O/L) Revision Platform
+              OLNotesLM
             </p>
             <p className="text-xs text-slate-500 mt-0.5">
               Providing free, peer-reviewed syllabus summaries, diagrams, and PDF guides for Sri Lankan Grade 10 & 11 students.
