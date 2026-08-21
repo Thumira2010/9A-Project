@@ -66,7 +66,7 @@ export const HomeView: React.FC<HomeViewProps> = ({
           </div>
 
           <h1 className="text-3xl sm:text-4xl font-black text-slate-900 tracking-tight leading-tight">
-            Master Your O/L Syllabus with Student & Teacher Revision Notes
+            Forgot to make Notes? We've got you covered!
           </h1>
 
           <p className="text-slate-600 text-sm sm:text-base leading-relaxed font-medium">
